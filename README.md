@@ -1,7 +1,7 @@
 # Delta_Parallel_Robot
 Course Project - Kinematics of Machinery
 
-## 📌 Overview
+##  Overview
 
 This project involves the **design, modeling, and kinematic analysis** of a Delta-type parallel manipulator.
 The work covers **CAD modeling in SolidWorks**, **MATLAB-based forward and inverse kinematics**, and **workspace analysis** with motion simulation.
@@ -9,7 +9,7 @@ The work covers **CAD modeling in SolidWorks**, **MATLAB-based forward and inver
 The Delta robot is widely used in **high-speed pick-and-place** operations in industries due to its **high stiffness, precision, and low moving mass**.
 
 
-## 🛠 Features
+##  Features
 
 * **3D CAD Model** designed in *SolidWorks*.
 * **Forward Kinematics** using vector-based approach.
